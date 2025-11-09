@@ -21,34 +21,34 @@ This project is a "multitool" website designed to offer a variety of simple web-
 ### Home Screen
 The home screen presents the user with all available tools. Clicking on either the countdown timer or quote generator card navigates the user to the respective tool.
 
-![Home Screen]()
+![Home Screen](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/HomeScreen.png)
 
 A footer at the bottom of the page includes social media links.
 
-![Home Screen Footer]()
+![Home Screen Footer](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/HomeScreenScrolled.png)
 
 ### Countdown Timer Tool
 From the countdown timer tool, users can view all active timers, create new ones, or delete existing ones. The top navigation bar also allows for easy switching between tools.
 
-![Countdown Timer Home Page]()
+![Countdown Timer Home Page](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/CountdownTimer.png)
 
 A view further down the timer page.
 
-![Countdown Timer Page scrolled a bit]()
+![Countdown Timer Page scrolled a bit](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/CountdownTimerMidScroll.png)
 
 The bottom of the timer page.
 
-![Countdown Timer Page scrolled to bottom]()
+![Countdown Timer Page scrolled to bottom](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/CountdownTimerBottom.png)
 
 Clicking the green "New Timer" button opens a modal for creating a new timer.
 
-![Create New Timer Popup]()
+![Create New Timer Popup](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/CreateNewTimerScreen.png)
 
 ### Quote Generator Tool
 The quote generator tool displays the home screen.
 
-![Generate Quote Tool Home Screen]()
+![Generate Quote Tool Home Screen](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/QuoteGenerator.png)
 
 Pressing the "Generate Quote" button fetches and displays a new quote.
 
-![Generate Quote Tool New Quote]()
+![Generate Quote Tool New Quote](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/QuoteGeneratorNewQuote.png)
