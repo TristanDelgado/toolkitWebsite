@@ -13,8 +13,7 @@ This project is a "multitool" website designed to offer a variety of simple web-
 - JavaScript
 
 ## Video Demo
-[View the video demo HERE]().
-(TODO: Create demo video)
+View the video demo [HERE](https://youtu.be/zzztzJ_LSuM).
 
 ## Walkthrough
 
@@ -45,7 +44,7 @@ Clicking the green "New Timer" button opens a modal for creating a new timer.
 ![Create New Timer Popup](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/CreateNewTimerScreen.png)
 
 ### Quote Generator Tool
-The quote generator tool displays the home screen.
+The quote generator tool displays various quotes.
 
 ![Generate Quote Tool Home Screen](https://github.com/TristanDelgado/toolkitWebsite/blob/Main/readme-images/QuoteGenerator.png)
 
