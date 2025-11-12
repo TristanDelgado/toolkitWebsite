@@ -3,6 +3,9 @@
 ## Purpose
 This project is a "multitool" website designed to offer a variety of simple web-based utilities.
 
+## Notes
+Created for CS-4443-TSAA: Web Development, Troy University, Spring 2024.
+
 ## Features
 - A countdown timer
 - A quote generator
